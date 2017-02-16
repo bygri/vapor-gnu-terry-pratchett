@@ -1,6 +1,6 @@
 import XCTest
-@testable import VaporGNUTerryPratchett
+@testable import VaporGNUTerryPratchettTests
 
 XCTMain([
-  testCase(VaporGNUTerryPratchett.allTests),
+  testCase(VaporGNUTerryPratchettTests.allTests),
 ])
